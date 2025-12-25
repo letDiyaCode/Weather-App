@@ -29,8 +29,12 @@ Get real-time weather information for any city using a weather API — fast, cle
 
 ▶️ How to Use
 
-1. Open `index.html` in a browser  
-2. Enter a city name in the search box  
-3. Click the **Search** button  
-4. View the current weather details  
-5. Search for another city anytime  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/letDiyaCode/Weather-App
+   ```
+2. Open `index.html` in a browser  
+3. Enter a city name in the search box  
+4. Click the **Search** button  
+5. View the current weather details  
+6. Search for another city anytime  
